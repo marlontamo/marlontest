@@ -19,7 +19,7 @@ get_header();
                     <label for="formControlRange"></label>
                     <input type="range"  
                             min="0" 
-                            max="100" 
+                            max="1000" 
                             value="50" 
                             class="form-control-range range-custom" 
                             id="formControlRange1">
@@ -41,7 +41,7 @@ get_header();
                     <label for="formControlRange"></label>
                     <input type="range"
                     min="0"
-                    max="100"
+                    max="1000"
                     value="25" 
                     class="form-control-range range-custom" 
                      id="formControlRange2">
@@ -62,7 +62,7 @@ get_header();
                     <label for="formControlRange"></label>
                     <input type="range" 
                         min="0"
-                        max="100"
+                        max="1000"
                         value="45"
                         class="form-control-range range-custom" 
                         id="formControlRange3">
