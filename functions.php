@@ -32,7 +32,8 @@ function load_js()
 
 		//wp_register_script('magnific', get_template_directory_uri() . '/js/jquery.magnific-popup.min.js', 'jquery', false, true);
 		//wp_enqueue_script('magnific');
-
+        wp_register_script('range', get_template_directory_uri() . '/js/html5range.js', 'jquery', false, true);
+		wp_enqueue_script('range');
 
 		wp_register_script('custom', get_template_directory_uri() . '/js/custom.js', 'jquery', false, true);
 		wp_enqueue_script('custom');
