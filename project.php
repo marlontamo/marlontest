@@ -12,7 +12,7 @@ get_header();
             <div class="card-head text-center">
                 <h3>card 1</h3>
             </div>
-            <div class="card-body">
+            <div class="card-body text-center">
             <form>
                 <div class="form-group">
                     <label for="formControlRange"></label>
