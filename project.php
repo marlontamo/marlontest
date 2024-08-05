@@ -36,7 +36,12 @@ get_header();
             <form>
                 <div class="form-group">
                     <label for="formControlRange"> Range for card-2</label>
-                    <input type="range" class="form-control-range" id="formControlRange">
+                    <input type="range"
+                    min="1"
+                    max="100"
+                    value="25" 
+                    class="form-control-range"
+                     id="formControlRange2">
                 </div>
             </form>
             </div>
