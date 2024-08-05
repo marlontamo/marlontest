@@ -13,12 +13,12 @@ get_header();
                 <h3>card 1</h3>
             </div>
             <div class="card-body text-center">
-            <h1 id= "resultForm1">0</h1>
+            <h1 id= "resultForm1"></h1>
             <form>
                 <div class="form-group">
                     <label for="formControlRange"></label>
                     <input type="range"  
-                            min="1" 
+                            min="0" 
                             max="100" 
                             value="50" 
                             class="form-control-range range-custom" 
@@ -35,12 +35,12 @@ get_header();
                 <h3>card 2</h3>
             </div>
             <div class="card-body">
-            <h1 id= "resultForm2">0</h1>
+            <h1 id= "resultForm2"></h1>
             <form>
                 <div class="form-group">
                     <label for="formControlRange"></label>
                     <input type="range"
-                    min="1"
+                    min="0"
                     max="100"
                     value="25" 
                     class="form-control-range range-custom" 
@@ -56,7 +56,7 @@ get_header();
                 <h3>card 3</h3>
             </div>
             <div class="card-body text-center">
-            <h1 id= "resultForm3">0</h1>  
+            <h1 id= "resultForm3"></h1>  
             <form>
                 <div class="form-group">
                     <label for="formControlRange"></label>
