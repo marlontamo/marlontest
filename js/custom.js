@@ -1,4 +1,10 @@
 jQuery(document).on('ready',function() {
+    //oneCard
+    let sliderone = document.getElementById('formOneControlRange').value;
+    let resultone = document.getElementById('resultOneForm');
+    let resultPone = document.getElementById('resultOneP');
+      resultone.innerHTML = sliderone;
+      resultPone.innerHTML = sliderone;
     //card1
     let slider1 = document.getElementById('formControlRange1').value;
     let result1 = document.getElementById('resultForm1');
@@ -19,6 +25,15 @@ jQuery(document).on('ready',function() {
         resultP3.innerHTML = slider3;
 
 });
+//reult one
+Query('#formOneControlRange').on('change',function(){ 
+    let slider = document.getElementById('formOneControlRange').value;
+    let result = document.getElementById('resultOneForm1');
+    let resultP1 = document.getElementById('resultOneP');
+      result.innerHTML = slider;
+      resultP1.innerHTML = slider;
+
+    });
 //result form1
 jQuery('#formControlRange1').on('change',function(){ 
     let slider = document.getElementById('formControlRange1').value;
@@ -46,3 +61,4 @@ jQuery('#formControlRange3').on('change',function(){
       resultP3.innerHTML = slider;
 
     });
+

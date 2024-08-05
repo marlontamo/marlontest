@@ -13,7 +13,7 @@ get_header();
                 <h3>card 1</h3>
             </div>
             <div class="card-body text-center">
-            <h1 id= "resultForm1">0</h1>
+            <h1 id= "resultOneForm1">0</h1>
             <form>
                 <div class="form-group">
                     <label for="formControlRange"></label>
@@ -22,7 +22,7 @@ get_header();
                             max="1000" 
                             value="50" 
                             class="form-control-range range-custom" 
-                            id="formControlRange1">
+                            id="formOneControlRange">
                 </div>
             </form>
             <!-- 1box -->
@@ -32,7 +32,7 @@ get_header();
                 <div class="col-md-2 bg-danger">3</div>
                 <div class="col-md-2 bg-primary">4</div>
                 <div class="col-md-2 bg-secondary">5</div>
-                <div class="col-md-2 bg-danger"><b id= "resultP1">0</b></div>
+                <div class="col-md-2 bg-danger"><b id= "resultOneP1">0</b></div>
             </div>
             <!-- end1box -->
             </div>
