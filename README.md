@@ -13,8 +13,9 @@
     <br />
     
   </p>
-  clone: https://github.com/marlontamo/marlontest.git
-  upload it to your wordpress installation
-  login to the wordpress dashboard
-  activate this Test theme thats it...
+  how to test:
+  1.clone: https://github.com/marlontamo/marlontest.git
+  2.upload it to your wordpress installation
+  3.login to the wordpress dashboard
+  4.activate this Test theme thats it...
 </div>
