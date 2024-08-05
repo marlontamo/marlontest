@@ -1,4 +1,4 @@
-$(document).ready(function() {
+jQuery(document).on('ready',function() {
     //card1
     let slider1 = document.getElementById('formControlRange1').value;
     let result1 = document.getElementById('resultForm1');
