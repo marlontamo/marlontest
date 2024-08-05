@@ -1,3 +1,4 @@
 jQuery('#formControlRange1').on('change',function(){ 
-      console.log(jQuery('#forControlRange1').val());
+    let slider = document.getElementById('formControlRange1').value;
+      console.log(slider);
     });
