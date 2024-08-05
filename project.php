@@ -38,12 +38,12 @@ get_header();
             <h1 id= "resultForm2">0</h1>
             <form>
                 <div class="form-group">
-                    <label for="formControlRange">card-2</label>
+                    <label for="formControlRange"></label>
                     <input type="range"
                     min="1"
                     max="100"
                     value="25" 
-                    class="form-control-range"
+                    class="form-control-range range-custom" 
                      id="formControlRange2">
                 </div>
             </form>
