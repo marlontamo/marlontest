@@ -26,7 +26,7 @@ jQuery(document).on('ready',function() {
 
 });
 //reult one
-Query('#formOneControlRange').on('change',function(){ 
+jQuery('#formOneControlRange').on('change',function(){ 
     let slider = document.getElementById('formOneControlRange').value;
     let result = document.getElementById('resultOneForm1');
     let resultP1 = document.getElementById('resultOneP');
