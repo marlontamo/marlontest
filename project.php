@@ -25,7 +25,13 @@ get_header();
                             id="formControlRange1">
                 </div>
             </form>
-            
+            <!-- 3box -->
+            <div class="row">
+                <div class="col-md-4 bg-primary">1</div>
+                <div class="col-md-4 bg-secondary">2</div>
+                <div class="col-md-4 bg-danger">3</div>
+            </div>
+            <!-- end3box -->
             </div>
         </div>
         </div>
