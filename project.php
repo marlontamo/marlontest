@@ -65,4 +65,5 @@ get_header();
         
     </div>
 </div>
+<span id="result"></span>
 <?php get_footer(); ?>
