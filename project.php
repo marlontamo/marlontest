@@ -30,7 +30,7 @@ get_header();
         </div>
         </div>
         <div class="col-md-4">
-        <div class="card">
+        <div class="card text-center">
             <div class="card-head">
                 <h3>card 2</h3>
             </div>
@@ -51,7 +51,7 @@ get_header();
         </div>
         </div>
         <div class="col-md-4">
-        <div class="card">
+        <div class="card text-center">
             <div class="card-head">
                 <h3>card 3</h3>
             </div>
