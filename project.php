@@ -24,6 +24,7 @@ get_header();
                             id="formControlRange1">
                 </div>
             </form>
+            <h1 id= "result">1</h1>
             </div>
         </div>
         </div>
@@ -65,6 +66,4 @@ get_header();
         
     </div>
 </div>
-  <h1>1</h1>
-<span id="result"></span>
 <?php get_footer(); ?>
