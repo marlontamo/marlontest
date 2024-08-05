@@ -13,9 +13,10 @@
     <br />
     
   </p>
-  how to test:
-  1.clone: https://github.com/marlontamo/marlontest.git
-  2.upload it to your wordpress installation
-  3.login to the wordpress dashboard
-  4.activate this Test theme thats it...
+  <h3 align="center">how to test:</h3></br>
+  <p align="center">1.clone: https://github.com/marlontamo/marlontest.git</p>
+  </br>
+  <p align="center">2.upload it to your wordpress installation</p></br>
+  <p align="center">3.login to the wordpress dashboard</p></br>
+  <p align="center">4.activate this Test theme thats it...</p>
 </div>
