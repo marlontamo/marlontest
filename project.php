@@ -13,6 +13,7 @@ get_header();
                 <h3>card 1</h3>
             </div>
             <div class="card-body text-center">
+            <h1 id= "resultForm1">0</h1>
             <form>
                 <div class="form-group">
                     <label for="formControlRange"></label>
@@ -24,7 +25,7 @@ get_header();
                             id="formControlRange1">
                 </div>
             </form>
-            <h1 id= "result">0</h1>
+            
             </div>
         </div>
         </div>
@@ -34,9 +35,10 @@ get_header();
                 <h3>card 2</h3>
             </div>
             <div class="card-body">
+            <h1 id= "resultForm2">0</h1>
             <form>
                 <div class="form-group">
-                    <label for="formControlRange"> Range for card-2</label>
+                    <label for="formControlRange">card-2</label>
                     <input type="range"
                     min="1"
                     max="100"
