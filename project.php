@@ -55,11 +55,16 @@ get_header();
             <div class="card-head">
                 <h3>card 3</h3>
             </div>
-            <div class="card-body">
+            <div class="card-body text-center">
+            <h1 id= "resultForm3">0</h1>  
             <form>
                 <div class="form-group">
-                    <label for="formControlRange"> Range for card-2</label>
-                    <input type="range" class="form-control-range" id="formControlRange">
+                    <label for="formControlRange"></label>
+                    <input type="range" 
+                        min="0"
+                        max="100"
+                        class="form-control-range range-custom" 
+                        id="formControlRange3">
                 </div>
             </form>
             </div>

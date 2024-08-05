@@ -12,3 +12,10 @@ jQuery('#formControlRange2').on('change',function(){
       result.innerHTML = slider;
 
     });
+//result form3
+jQuery('#formControlRange3').on('change',function(){ 
+    let slider = document.getElementById('formControlRange3').value;
+    let result = document.getElementById('resultForm3');
+      result.innerHTML = slider;
+
+    });
