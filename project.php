@@ -24,7 +24,7 @@ get_header();
                             id="formControlRange1">
                 </div>
             </form>
-            <h1 id= "result">1</h1>
+            <h1 id= "result">0</h1>
             </div>
         </div>
         </div>
