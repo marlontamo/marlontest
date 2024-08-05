@@ -32,7 +32,7 @@ get_header();
                 <div class="col-md-2 bg-danger">3</div>
                 <div class="col-md-2 bg-primary">4</div>
                 <div class="col-md-2 bg-secondary">5</div>
-                <div class="col-md-2 bg-danger"><h1 id= "resultP1">0</h1></div>
+                <div class="col-md-2 bg-danger"><b id= "resultP1">0</b></div>
             </div>
             <!-- end1box -->
             </div>
@@ -63,7 +63,7 @@ get_header();
                 <div class="col-md-2 bg-danger">3</div>
                 <div class="col-md-2 bg-primary">4</div>
                 <div class="col-md-2 bg-secondary">5</div>
-                <div class="col-md-2 bg-danger"><h1 id= "resultP2">0</h1></div>
+                <div class="col-md-2 bg-danger"><b id= "resultP2">0</b></div>
             </div>
             <!-- end2box -->
             </div>
@@ -94,7 +94,7 @@ get_header();
                 <div class="col-md-2 bg-danger">3</div>
                 <div class="col-md-2 bg-primary">4</div>
                 <div class="col-md-2 bg-secondary">5</div>
-                <div class="col-md-2 bg-danger"><h1 id= "resultP3">0</h1></div>
+                <div class="col-md-2 bg-danger"><b id= "resultP3">0</b></div>
             </div>
             <!-- end3box -->
             </div>
