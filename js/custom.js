@@ -1,2 +1,2 @@
  let range = document.getElementById('formControlRange');
- alert(range.val);
+ alert(range.value);
