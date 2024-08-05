@@ -1,4 +1,3 @@
 jQuery('#formControlRange1').on('change',function(){ 
-    //let range = jQuery('#forControlRange1').val();
-      alert(jQuery('#forControlRange1').val());
+      console.log(jQuery('#forControlRange1').val());
     });
