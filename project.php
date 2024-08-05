@@ -16,7 +16,12 @@ get_header();
             <form>
                 <div class="form-group">
                     <label for="formControlRange"></label>
-                    <input type="range" class="form-control-range range-custom" id="formControlRange">
+                    <input type="range"  
+                            min="1" 
+                            max="100" 
+                            value="50" 
+                            class="form-control-range range-custom" 
+                            id="formControlRange1">
                 </div>
             </form>
             </div>
