@@ -73,7 +73,7 @@ get_header();
             </div>
             <!-- end1box -->
               <!-- Button trigger modal1 -->
-<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+<button type="button" class="btn btn-primary btn-sm"  data-bs-toggle="modal" data-bs-target="#staticBackdrop">
    modal
 </button>
 
@@ -128,7 +128,7 @@ get_header();
             </div>
             <!-- end2box -->
               <!-- Button trigger modal2 -->
-<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+<button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
    modal
 </button>
 
@@ -183,7 +183,7 @@ get_header();
             </div>
             <!-- end3box -->
              <!-- Button trigger modal3 -->
-<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+<button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
    modal
 </button>
 
