@@ -25,13 +25,16 @@ get_header();
                             id="formControlRange1">
                 </div>
             </form>
-            <!-- 3box -->
+            <!-- 1box -->
             <div class="row">
-                <div class="col-md-4 bg-primary">1</div>
-                <div class="col-md-4 bg-secondary">2</div>
-                <div class="col-md-4 bg-danger">3</div>
+                <div class="col-md-2 bg-primary">1</div>
+                <div class="col-md-2 bg-secondary">2</div>
+                <div class="col-md-2 bg-danger">3</div>
+                <div class="col-md-2 bg-primary">4</div>
+                <div class="col-md-2 bg-secondary">5</div>
+                <div class="col-md-2 bg-danger"><h1 id= "resultP1">0</h1></div>
             </div>
-            <!-- end3box -->
+            <!-- end1box -->
             </div>
         </div>
         </div>
@@ -53,6 +56,16 @@ get_header();
                      id="formControlRange2">
                 </div>
             </form>
+            <!-- 2box -->
+            <div class="row">
+                <div class="col-md-2 bg-primary">1</div>
+                <div class="col-md-2 bg-secondary">2</div>
+                <div class="col-md-2 bg-danger">3</div>
+                <div class="col-md-2 bg-primary">4</div>
+                <div class="col-md-2 bg-secondary">5</div>
+                <div class="col-md-2 bg-danger"><h1 id= "resultP2">0</h1></div>
+            </div>
+            <!-- end2box -->
             </div>
         </div>
         </div>
@@ -74,6 +87,16 @@ get_header();
                         id="formControlRange3">
                 </div>
             </form>
+            <!-- 3box -->
+            <div class="row">
+                <div class="col-md-2 bg-primary">1</div>
+                <div class="col-md-2 bg-secondary">2</div>
+                <div class="col-md-2 bg-danger">3</div>
+                <div class="col-md-2 bg-primary">4</div>
+                <div class="col-md-2 bg-secondary">5</div>
+                <div class="col-md-2 bg-danger"><h1 id= "resultP3">0</h1></div>
+            </div>
+            <!-- end3box -->
             </div>
         </div>
         </div>
