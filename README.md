@@ -13,7 +13,7 @@
     <br />
     
   </p>
-  <h3 align="center">how to test:</h3></br>
+  <h3 align="center">how to test:</h3>
   <p align="left">1.clone: https://github.com/marlontamo/marlontest.git</p>
   
   <p align="left">2.upload it to your wordpress installation</p>
