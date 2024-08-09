@@ -15,8 +15,8 @@
   </p>
   <h3 align="center">how to test:</h3></br>
   <p align="left">1.clone: https://github.com/marlontamo/marlontest.git</p>
-  </br>
-  <p align="left">2.upload it to your wordpress installation</p></br>
+  
+  <p align="left">2.upload it to your wordpress installation</p>
   <p align="left">3.login to the wordpress dashboard</p></br>
-  <p align="right">4.activate this Test theme thats it...</p>
+  <p align="left">4.activate this Test theme thats it...</p>
 </div>
