@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://marlontest.online/wp-content/uploads/2024/01/cropped-mbt-logo-removebg-preview.png" alt="Logo" width="100" height="100">
+    <img src="https://marlontest.online/wp-content/uploads/2024/01/cropped-mbt-logo-removebg-preview.png" alt="Logo">
   </a>
 
   <h3 align="center">My WordPress Sample Theme Development</h3>
